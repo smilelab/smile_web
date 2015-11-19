@@ -1,0 +1,26 @@
+date: "2015-02-04 10:26:58.885"
+argv: node /usr/local/bin/hexo s
+os: Darwin 14.1.0 darwin x64
+versions:
+  http_parser: "1.0"
+  node: 0.10.35
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.30
+  zlib: 1.2.8
+  modules: "11"
+  openssl: 1.0.1j
+  hexo: 2.8.3
+---
+[debug] 10:26:58.218 Config file loaded from /Users/ay27/hexo/blog/_config.yml[debug] 10:26:58.221 Version info checked successfully[debug] 10:26:58.242 Loading database.[debug] 10:26:58.298 Processed: draft.md (2ms)[debug] 10:26:58.298 Processed: page.md (1ms)[debug] 10:26:58.299 Processed: photo.md (2ms)[debug] 10:26:58.299 Processed: post.md (2ms)[debug] 10:26:58.326 Plugin loaded successfully: hexo-renderer-ejs[debug] 10:26:58.350 Plugin loaded successfully: hexo-renderer-marked[debug] 10:26:58.499 Plugin loaded successfully: hexo-renderer-stylus[debug] 10:26:58.501 Script load successfully: fancybox.js[debug] 10:26:58.542 Processed: baidu_verify_RaKDlus0xu.html (1ms)[debug] 10:26:58.543 Processed: favicon.png (1ms)[debug] 10:26:58.544 Processed: google15ebd55a83bf26a9.html (0ms)[debug] 10:26:58.544 Processed: _posts/hello-world.md (0ms)[error] 10:26:58.867 HexoError: Process failed: _posts/2014-09-10-a_simple_problem_in_android.markdown
+Error: Unexpected tag "highlight xml" on line 41 in file /Users/ay27/hexo/blog/source/_posts/2014-09-10-a_simple_problem_in_android.markdown.
+    at Object.exports.throwError (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/utils.js:183:9)
+    at parseTag (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/parser.js:543:13)
+    at /usr/local/lib/node_modules/hexo/node_modules/swig/lib/parser.js:638:15
+    at Object.exports.each (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/utils.js:45:11)
+    at Object.exports.parse (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/parser.js:622:9)
+    at parse (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:343:19)
+    at precompile (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:473:23)
+    at compile (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:588:16)
+    at Object.render (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:507:17)
+    at /usr/local/lib/node_modules/hexo/lib/post/render.js:61:29
