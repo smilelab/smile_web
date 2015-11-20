@@ -88,5 +88,6 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/smilelab/smilelab.github.io.git
-  branch: master
+  repo:
+    github: https://github.com/smilelab/smilelab.github.io.git,master
+    gitcafe: git@gitcafe.com:smilelab/smilelab.git,gitcafe-pages

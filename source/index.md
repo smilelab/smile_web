@@ -2,7 +2,7 @@ title: 实验室简介
 date: 
 ---
 
-**统计机器智能与学习(Statistical Machine Intelligence & LEarning, SMILE)实验室**隶属于[电子科技大学计算机](http://www.uestc.edu.cn/)[科学与工程学院](http://www.ccse.uestc.edu.cn/)与电子科技大学[大数据研究中心](http://www.bigdata-research.org/)。 位于电子科大清水河校区主楼B1-420。负责人为徐增林教授。
+**统计机器智能与学习(Statistical Machine Intelligence & LEarning, SMILE)实验室**隶属于[电子科技大学计算机](http://www.uestc.edu.cn/)[科学与工程学院](http://www.ccse.uestc.edu.cn/)与电子科技大学[大数据研究中心](http://www.bigdata-research.org/)。 位于电子科大清水河校区主楼B1-201。负责人为徐增林教授。
 
 实验室以机器学习技术及其应用为主要研究方向。目前研究方向包括：半监督学习、核学习、贝叶斯学习、特征选择与提取、多任务学习、多视角学习、主动学习、在线学习、矩阵分析、张量分析、深度学习、优化算法、可扩展学习等。主要应用领域包括互联网、推荐系统、社会网络分析、生物信息学、神经信息学、健康数据分析、空间安全数据分析等。
 

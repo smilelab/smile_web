@@ -194,7 +194,7 @@ body,
 }
 body {
   background: #eaeaea;
-  font: 14px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 14px "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 .container {
@@ -223,20 +223,24 @@ body {
 .alignright {
   float: right;
 }
+.middle,
+.alignmiddle {
+  float: middle;
+}
 .clear {
   clear: both;
 }
 .logo {
   display: block;
   padding: 10px 0;
-  width: 165px;
-  height: 60px;
-  background-image: url("images/logo-header.png");
+  width: 350px;
+  height: 132px;
+  text-align: center;
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 165px 60px;
-  -moz-background-size: 165px 60px;
-  background-size: 165px 60px;
+  -webkit-background-size: 350px 132px;
+  -moz-background-size: 350px 132px;
+  background-size: 350px 132px;
 }
 .main-body {
   margin-top: -60px;
@@ -330,7 +334,7 @@ body {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 70px;
+  line-height: 142px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -484,7 +488,7 @@ body {
   -moz-transition: 0.2s ease-in;
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
-  font: 16px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 16px "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   color: rgba(255,255,255,0.7);
 }
 .search-form-input:focus,
@@ -735,7 +739,7 @@ a.article-title:hover {
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 1.6em 0;
-  font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
 }
 .article-entry blockquote footer cite:before {
   content: "—";
@@ -856,7 +860,7 @@ a.article-title:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  font: 14px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 14px "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   padding: 0 15px;
   color: #555;
   outline: none;
@@ -1126,11 +1130,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 132px;
-  height: 48px;
-  -webkit-background-size: 132px 48px;
-  -moz-background-size: 132px 48px;
-  background-size: 132px 48px;
+  width: 280px;
+  height: 105.60000000000001px;
+  -webkit-background-size: 280px 105.60000000000001px;
+  -moz-background-size: 280px 105.60000000000001px;
+  background-size: 280px 105.60000000000001px;
 }
 .article-entry pre,
 .article-entry .highlight {
@@ -1234,7 +1238,7 @@ a.article-title:hover {
 .article-entry .gist .gist-file .gist-meta {
   background: #2d2d2d;
   color: #999;
-  font: 0.85em "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 0.85em "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   text-shadow: 0 0;
   padding: 0;
   margin-top: 1em;
