@@ -8,7 +8,9 @@ subtitle:
 description: 
 author: 
 email: 
-language: zh-CN
+language:
+- zh-CN
+- en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

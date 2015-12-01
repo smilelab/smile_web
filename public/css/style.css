@@ -338,6 +338,16 @@ body {
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
+#header-title .blue_link {
+  color: #3b8dbd;
+  text-decoration: none;
+}
+#header-title .blue_link:hover {
+  text-decoration: underline;
+}
+#header-title .blue_link.fancybox {
+  display: block !important;
+}
 .nav-container .nav-icon,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
   float: left;
