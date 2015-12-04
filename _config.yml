@@ -10,7 +10,7 @@ author:
 email: 
 language:
 - zh-CN
-- en
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -86,10 +86,19 @@ sort_by: updated
 theme: hueman
 exclude_generator:
 
+plugins:
+    i18n
+
+i18n_dir: :lang
+
+
+sitemap:
+    path: sitemap.xml
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo:
-    github: https://github.com/smilelab/smilelab.github.io.git,master
     gitcafe: git@gitcafe.com:smilelab/smilelab.git,gitcafe-pages
+    github: https://github.com/smilelab/smilelab.github.io.git,master

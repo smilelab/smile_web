@@ -1,3 +1,7 @@
+lang: en
+layout: layout_en
+---
+
 ### a) Books or Edited Special Issues 
 1. **Zenglin Xu** and Irwin King. Introduction to Semi-supervised Learning. CRC Press, 2014 (expected).
 2. Yi Fang, **Zenglin Xu**, Jiang Bian, and Ziad Al Bawab. International Journal of Web Science, Special Issue on Social Web Search and Mining. Inderscience, 2013.

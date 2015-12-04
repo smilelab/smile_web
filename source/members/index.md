@@ -15,7 +15,9 @@ title: 主要成员
 [周欣](/members/zhouxin)
 
 ## 博士生
-[刘斌](/members/liubin)  [盛泳潘](/members/shengyongpan)
+[刘斌](/members/liubin)  [盛泳潘](/members/shengyongpan) [Emily](/members/emily)
 
 ## 研究生
 [白冉](/members/bairan) [贺丽荣](/members/helirong) [衡星](/members/hengxing) [蒋涛](/members/jiangtao) [李广西](/members/liguangxi) [刘畅](/members/liuchang) [龙亚超](/members/longyacao) [阙晓凡](/members/quexiaofan) [肖文栋](/members/xiaowendong) [叶锦棉](/members/yejinmian) [臧文华](/members/zangwenhua) [曾杰](/members/zengjie) [郑德炼](/members/zhengdelian)
+
+![合影](http://7xohr3.com1.z0.glb.clouddn.com/合影.jpg)

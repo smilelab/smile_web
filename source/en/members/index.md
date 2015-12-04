@@ -1,37 +1,24 @@
 title: 主要成员
+layout: layout_en
 ---
 
 ## 教师
-徐增林，电子科技大学教授、博士生导师，中组部“青年千人计划”入选者，现任电子科技大学大数据研究中心数据挖掘与推理研究所轮值所长。徐增林教授主要研究兴趣为机器学习及其在社会网络分析、互联网、计算生物学、信息安全等方面的应用。他在包括NIPS, ICML, IJCAI, AAAI, UAI, CIKM, ICDM, IEEE TPAMI, IEEE TNN在内的顶级会议和刊物发表论文近30篇，引用600多次，发表专著2部，书籍章节2篇，并于2012年在多伦多召开的国际人工智能大会(AAAI)上做教学报告。徐增林教授是JMLR， IEEE TPAMI, JAIR等机器学习与人工智能领域主要期刊的审稿人和香港教育资助局的基金评审人；多次担任人工智能领域的主要国际会议如AAAI/IJCAI等会议的程序委员会成员；多次担任机器学习和大数据研究方面的研讨会的组织委员会主席。
+教授：[徐增林](/members/xuzenglin)
 
-徐增林教授于2009年毕业于香港中文大学计算机科学与工程专业，师从香港中文大学工程学院副院长、亚太神经网络协会APPNA常务副会长Irwin King教授和IEEE会士、美国科学促进会AAAS会士Michael R. Lyu教授。他先后在美国密西根州立大学、德国马克思普朗克信息研究所及萨尔大学、美国普渡大学等著名研究机构访问和从事学术研究工作；主要合作者包括密 西根州立大学Rong Jin教授、芬兰科学院院士/IEEE会士Erkki Oja教授、普渡大学Alan Qi教授、Ninghui Li教授等。
+副教授：[吴洪](/members/wuhong)
 
+讲师：[任亚洲](/members/renyazhou)
 
+## 访问学者
+[宋国琴](/members/songguoqin)
 
-任亚洲，电子科技大学讲师，2014年博士毕业于华南理工大学计算机应用技术专业，曾于2012年8月至2014年7月赴美国乔治梅森大学联合培养，合作导师是Carlotta Domeniconi教授。他的主要研究方向包括聚类、特征选择等，在ICDM，SDM，ECML/PKDD和Neurocomputing等会议和刊物上发表多篇论文；是KAIS，Neurocomputing等期刊的审稿人。
-热爱运动，特别是羽毛球，足球和乒乓球。
-联系方式：<yazhou.ren@uestc.edu.cn>
-
-## 研究助理
-
-谢琬琰，研究助理 
-研究兴趣为机器学习与大数据，喜欢爬山，野营等户外活动。
-
+## 行政人员
+[周欣](/members/zhouxin)
 
 ## 博士生
-刘斌，男，博士二年级。 
-研究兴趣为半监督学习大规模应用，喜欢游泳和户外运动，喜欢尝试各种风味的美食。
+[刘斌](/members/liubin)  [盛泳潘](/members/shengyongpan) [Emily](/members/emily)
 
+## 研究生
+[白冉](/members/bairan) [贺丽荣](/members/helirong) [衡星](/members/hengxing) [蒋涛](/members/jiangtao) [李广西](/members/liguangxi) [刘畅](/members/liuchang) [龙亚超](/members/longyacao) [阙晓凡](/members/quexiaofan) [肖文栋](/members/xiaowendong) [叶锦棉](/members/yejinmian) [臧文华](/members/zangwenhua) [曾杰](/members/zengjie) [郑德炼](/members/zhengdelian)
 
-## 本科生
-李广西，电子科大本科生（大四），计算机科学与技术专业。他喜欢概率、矩阵分析等理论研究，并喜欢用matlab编程实践，目前在做矩阵分析、张量分析方面的工作，主要研究多元数据之间的关系。偶尔喜欢耍耍双节棍……
-
-
-周尚辰，电子科技大学大四学生。研究兴趣：机器学习（Machine learning）、计算机视觉（computer vision）。目前在做关联性分析、医学图像分析的一些工作。平时喜欢旅游和电影。联系方式：<uestc_zsc@163.com>
-
- 
-
-阙晓凡，本科生，毕业于电子科技大学计算机科学与技术专业。2014年加入统计机器智能与学习实验室，师从徐增林教授。主要研究方向为机器学习。
-
-
-刘畅，电子科技大学本科生，大四年级，信息安全专业，师从徐增林教授，研究方向是机器学习，目前在做主动学习算法相关的研究，喜欢悠游四方，乐享美食。
+![合影](http://7xohr3.com1.z0.glb.clouddn.com/合影.jpg)

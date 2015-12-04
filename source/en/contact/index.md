@@ -1,9 +1,11 @@
 title: 联系我们
+lang: en
+layout: layout_en
 ---
 
 地址：四川省成都市高新区(西区）西源大道2006号
           电子科技大学 清水河校区
-          主楼B1-705
+          主楼B1-201
 电话：
 邮箱：<smilelabchina@gmail.com>
 
@@ -11,7 +13,7 @@ title: 联系我们
 
 Address:
 
-	B1-705, the Administration Building
+	B1-201, the Administration Building
 	School of Computer Science and Engineering
 	University of Electronic Science and Technology of China
 	2006 Xiyuan Ave.

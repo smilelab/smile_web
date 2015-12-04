@@ -700,6 +700,9 @@ a.article-title:hover {
   line-height: 1.3em;
   margin: 1.3em 0;
 }
+.article-entry h2 {
+  border-bottom: 2px solid #ccc;
+}
 .article-entry a {
   color: #3b8dbd;
   text-decoration: none;
@@ -741,15 +744,15 @@ a.article-title:hover {
   padding: 10px 0;
 }
 .article-entry blockquote {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.4em;
+  border-left: 4px solid #ddd;
+  padding: 0 15px;
+  color: #777;
+  font-size: 1em;
   margin: 1.6em 20px;
-  text-align: center;
 }
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 1.6em 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
 }
 .article-entry blockquote footer cite:before {
   content: "—";
@@ -1140,11 +1143,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 280px;
-  height: 105.60000000000001px;
-  -webkit-background-size: 280px 105.60000000000001px;
-  -moz-background-size: 280px 105.60000000000001px;
-  background-size: 280px 105.60000000000001px;
+  width: 291.6px;
+  height: 90.4px;
+  -webkit-background-size: 291.6px 90.4px;
+  -moz-background-size: 291.6px 90.4px;
+  background-size: 291.6px 90.4px;
 }
 .article-entry pre,
 .article-entry .highlight {
