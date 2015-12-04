@@ -2,95 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11fba23f-c6fd-44d3-b203-3650bb2f6f0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/en/joining_us/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/joining_us/index.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/contact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/images/opacity-10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/images/s-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/images/thumb-default-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/images/thumb-default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/contact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/joinus/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/joinus/old_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/members/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/publications/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/en/research/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/helpers/fancybox_buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/helpers/jquery.fancybox-media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fancybox/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/joinus/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/joinus/old_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/jquery/jquery-2.1.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/html-patch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/bairan/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/helirong/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/hengxing/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/jiangtao/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/liguangxi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/liubin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/liuchang/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/longyacao/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/quexiaofan/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/renyazhou/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/shengyongpan/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/songguoqin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/wuhong/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/xiaowendong/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/xuzenglin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/yejinmian/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/zangwenhua/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/zengjie/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/zhengdelian/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/members/zhouxin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/publications/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/research/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/scrollLoading/images/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/scrollLoading/images/preloader@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/scrollLoading/jquery.scrollLoading.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/scrollLoading/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/scrollLoading/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/en/joinus/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/en/joinus/old_index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/joinus/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/joinus/old_index.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git" afterPath="$PROJECT_DIR$/.deploy_git" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.json" afterPath="$PROJECT_DIR$/db.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/contact/index.md" afterPath="$PROJECT_DIR$/source/contact/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/en/contact/index.md" afterPath="$PROJECT_DIR$/source/en/contact/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/en/index.md" afterPath="$PROJECT_DIR$/source/en/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/en/members/index.md" afterPath="$PROJECT_DIR$/source/en/members/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/en/publications/index.md" afterPath="$PROJECT_DIR$/source/en/publications/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/en/research/index.md" afterPath="$PROJECT_DIR$/source/en/research/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.md" afterPath="$PROJECT_DIR$/source/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/members/index.md" afterPath="$PROJECT_DIR$/source/members/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact/index.html" afterPath="$PROJECT_DIR$/public/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/contact/index.html" afterPath="$PROJECT_DIR$/public/en/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/joining_us/index.html" afterPath="$PROJECT_DIR$/public/en/joining_us/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/bairan/index.html" afterPath="$PROJECT_DIR$/public/en/members/bairan/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/helirong/index.html" afterPath="$PROJECT_DIR$/public/en/members/helirong/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/hengxing/index.html" afterPath="$PROJECT_DIR$/public/en/members/hengxing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/jiangtao/index.html" afterPath="$PROJECT_DIR$/public/en/members/jiangtao/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/liguangxi/index.html" afterPath="$PROJECT_DIR$/public/en/members/liguangxi/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/liuchang/index.html" afterPath="$PROJECT_DIR$/public/en/members/liuchang/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/longyacao/index.html" afterPath="$PROJECT_DIR$/public/en/members/longyacao/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/songguoqin/index.html" afterPath="$PROJECT_DIR$/public/en/members/songguoqin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/xiaowendong/index.html" afterPath="$PROJECT_DIR$/public/en/members/xiaowendong/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/zangwenhua/index.html" afterPath="$PROJECT_DIR$/public/en/members/zangwenhua/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/zengjie/index.html" afterPath="$PROJECT_DIR$/public/en/members/zengjie/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/zhengdelian/index.html" afterPath="$PROJECT_DIR$/public/en/members/zhengdelian/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/en/members/zhouxin/index.html" afterPath="$PROJECT_DIR$/public/en/members/zhouxin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/joining_us/index.html" afterPath="$PROJECT_DIR$/public/joining_us/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/bairan/index.html" afterPath="$PROJECT_DIR$/public/members/bairan/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/helirong/index.html" afterPath="$PROJECT_DIR$/public/members/helirong/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/hengxing/index.html" afterPath="$PROJECT_DIR$/public/members/hengxing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/jiangtao/index.html" afterPath="$PROJECT_DIR$/public/members/jiangtao/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/liguangxi/index.html" afterPath="$PROJECT_DIR$/public/members/liguangxi/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/liuchang/index.html" afterPath="$PROJECT_DIR$/public/members/liuchang/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/longyacao/index.html" afterPath="$PROJECT_DIR$/public/members/longyacao/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/songguoqin/index.html" afterPath="$PROJECT_DIR$/public/members/songguoqin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/xiaowendong/index.html" afterPath="$PROJECT_DIR$/public/members/xiaowendong/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/zangwenhua/index.html" afterPath="$PROJECT_DIR$/public/members/zangwenhua/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/zengjie/index.html" afterPath="$PROJECT_DIR$/public/members/zengjie/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/zhengdelian/index.html" afterPath="$PROJECT_DIR$/public/members/zhengdelian/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/members/zhouxin/index.html" afterPath="$PROJECT_DIR$/public/members/zhouxin/index.html" />
     </list>
     <ignored path="smile_web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,16 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hueman/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="en.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/hueman/languages/en.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,26 +83,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="google15ebd55a83bf26a9.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="google15ebd55a83bf26a9.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/google15ebd55a83bf26a9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.047413792">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state vertical-scroll-proportion="-1.5714285">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/en/research/index.md">
+      <file leaf-file-name="archive.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hueman/layout/_partial/archive.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="head.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hueman/layout/_partial/head.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.142858">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="i18n.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/plugins/filter/template_locals/i18n.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3814433">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_archives.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/plugins/helper/list_archives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -268,8 +227,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -344,6 +303,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hueman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smile_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smile_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hueman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smile_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smile_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hueman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_partial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,10 +450,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13744076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18393235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2571138" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -480,61 +487,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/en/members/quexiaofan/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7586207">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/en/members/renyazhou/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7586207">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/en/members/shengyongpan/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7586207">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/en/members/songguoqin/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7586207">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/en/members/wuhong/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7586207">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/en/members/xiaowendong/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.7586207">
@@ -928,10 +880,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/i18n/examples/express4-cookies/express-cookies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5292887">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/i18n/examples/express4-cookies/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6087866">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/i18n/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.667364">
+          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/i18n/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3290184">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/google15ebd55a83bf26a9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.047413792">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state vertical-scroll-proportion="-1.5714285">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hueman/layout/_partial/archive.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hueman/layout/_partial/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.142858">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/plugins/helper/list_archives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/plugins/filter/template_locals/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3814433">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
