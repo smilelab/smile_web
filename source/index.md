@@ -11,5 +11,3 @@ date:
 * 2015年11月13日：两篇文章分别被人工智能领域顶级会议AAAI接收，分别为：Shandian Zhe, Yuan Qi, Youngja Park, **Zenglin Xu**, Ian Molloy and Suresh Chari, DinTuker: Scaling up Gaussian process models on large multidimensional arrays；**Yingming Li**, Ming Yang, **Zenglin Xu**, Zhongfei (Mark) Zhang, Learning with Marginalized Corrupted Features and Labels Together. 
 * 2015年2月1日：一篇文章被人工智能领域顶级期刊T-PAMI接收：**Zenglin Xu（徐增林）**, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
 * 2015年1月25日： Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 被评为AAAI Outstanding student paper honorable mention。祝贺 Shandian Zhe, **Zenglin Xu**, Alan Qi, Peng Yu.
-
-this is test
