@@ -12,3 +12,4 @@ date:
 * 2015年2月1日：一篇文章被人工智能领域顶级期刊T-PAMI接收：**Zenglin Xu（徐增林）**, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
 * 2015年1月25日： Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 被评为AAAI Outstanding student paper honorable mention。祝贺 Shandian Zhe, **Zenglin Xu**, Alan Qi, Peng Yu.
 
+this is test
