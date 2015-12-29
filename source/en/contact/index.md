@@ -1,21 +1,7 @@
-title: 联系我们
+title: Contact
 lang: en
 layout: layout_en
 ---
 
-地址：四川省成都市高新区(西区）西源大道2006号
-          电子科技大学 清水河校区
-          主楼B1-201
-电话：
-邮箱：<smilelabchina@gmail.com>
-
-
-
-Address:
-
-	B1-201, the Administration Building
-	School of Computer Science and Engineering
-	University of Electronic Science and Technology of China
-	2006 Xiyuan Ave.
-	West High Tech Zone,
-	Chengdu, Sichuan, 710061  China
+Address： Main building B1-201, No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China.
+E-mail：<smilelabchina@gmail.com>

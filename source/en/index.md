@@ -1,14 +1,16 @@
-title: 实验室简介
+title: Introduction
 date:
 layout: layout_en
 ---
 
-**统计机器智能与学习(Statistical Machine Intelligence & LEarning, SMILE)实验室**隶属于[电子科技大学](http://www.uestc.edu.cn/)[计算机科学与工程学院](http://www.ccse.uestc.edu.cn/)与电子科技大学[大数据研究中心](http://www.bigdata-research.org/)。 位于电子科大清水河校区主楼B1-201。负责人为徐增林教授。
+**Statistical machine intelligence and learning laboratory (Machine Intelligence Statistical & LEarning, SMILE) ** belongs to[School of computer science and Engineering](http://www.ccse.uestc.edu.cn/), [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/)and[The Big Data Research Center](http://www.bigdata-research.org/), University of Electronic Science and Technology of China. The laboratory is located in the main building B1-201. Professor Xu Zenglin is responsible for SMILE lab.
 
-实验室以机器学习技术及其应用为主要研究方向。目前研究方向包括：半监督学习、核学习、贝叶斯学习、特征选择与提取、多任务学习、多视角学习、主动学习、在线学习、矩阵分析、张量分析、深度学习、优化算法、可扩展学习等。主要应用领域包括互联网、推荐系统、社会网络分析、生物信息学、神经信息学、健康数据分析、空间安全数据分析等。
+The main research direction of laboratory based on machine learning technology and its application. Current research directions include: Semi supervised learning, kernel learning, Bias learning, feature selection and extraction, multi task learning, multi view learning, active learning, online learning, matrix analysis, tensor analysis, deep learning, optimization algorithm, scalable learning, etc. The main application fields include Internet, recommendation system, social network analysis, bioinformatics, neural Informatics, health data analysis, spatial safety data analysis, etc..
+
 
 ### News!!
-* 2015年11月13日：两篇文章分别被人工智能领域顶级会议AAAI接收，分别为：Shandian Zhe, Yuan Qi, Youngja Park, **Zenglin Xu**, Ian Molloy and Suresh Chari, DinTuker: Scaling up Gaussian process models on large multidimensional arrays；**Yingming Li**, Ming Yang, **Zenglin Xu**, Zhongfei (Mark) Zhang, Learning with Marginalized Corrupted Features and Labels Together. 
-* 2015年2月1日：一篇文章被人工智能领域顶级期刊T-PAMI接收：**Zenglin Xu（徐增林）**, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
-* 2015年1月25日： Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 被评为AAAI Outstanding student paper honorable mention。祝贺 Shandian Zhe, **Zenglin Xu**, Alan Qi, Peng Yu.
-
+* December 16,2015： In order to strengthen the cooperation and communication between teachers and students in our school and the famous scholars at home and abroad, Human resources department Teacher Development Center held a symposium on the frontiers of artificial intelligence. The seminar invited scholars at home and abroad, who Engaged in computer science and Engineering, to gather our school to carry out academic reports and exchange of discussion.
+* December 15, 2015： Academic Salon was held successfully in Beno Cafe, The Academic Salon is sponsored by the Human resources department Teacher Development Center, is hosted by the Institute of computer. Jiayu Zhou, assistant professor of computer science and Engineering Department of Michigan State University, was invited to do a report entitled "multi task learning and application". Academic Salon was Hosted by Professor Zenglin Xu .
+* November 13, 2015：Two articles were received by the AAAI conference, the top academic conference in Artificial intelligence field, Respectively as: Shandian Zhe, Yuan Qi, Youngja Park, **Zenglin Xu**, Ian Molloy and Suresh Chari, DinTuker: Scaling up Gaussian process models on large multidimensional arrays；**Yingming Li**, Ming Yang, **Zenglin Xu**, Zhongfei (Mark) Zhang, Learning with Marginalized Corrupted Features and Labels Together. 
+* February 1, 2015：An article was received by the academic journal T-PAMI,  top journal of the field of artificial intelligence：**Zenglin Xu**, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
+* January 25, 2015： The paper, Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease ,is awarded AAAI Outstanding student paper honorable mention。Congratulations for  Shandian Zhe, **Zenglin Xu**, Alan Qi, Peng Yu.

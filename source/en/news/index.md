@@ -1,13 +1,14 @@
-title: 最新消息
+title: NEW!!
 lang: en
 layout: layout_en
 ---
-
-* 2015年11月13日：两篇文章分别被人工智能领域顶级会议AAAI接收，分别为：Shandian Zhe, Yuan Qi, Youngja Park, Zenglin Xu, Ian Molloy and Suresh Chari, DinTuker: Scaling up Gaussian process models on large multidimensional arrays；Yingming Li, Ming Yang, Zenglin Xu, Zhongfei (Mark) Zhang, Learning with Marginalized Corrupted Features and Labels Together. 
-* 2015年2月1日：一篇文章被人工智能领域顶级期刊T-PAMI接收：Zenglin Xu（徐增林）, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
-* 2015年1月25日： Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 被评为AAAI Outstanding student paper honorable mention。祝贺 Shandian Zhe, Zenglin Xu, Alan Qi, Peng Yu.
-* 2014年11月10日： 两篇文章分别被人工智能领域顶级会议AAAI接收，题目分别为：Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 和  Nyström Approximation for Sparse Kernel Methods: Theoretical Analysis and Empirical Evaluation
-* 大数据算法与科学论坛将于11月30日全天在成都，电子科技大学（清水河新校区），图书馆168人报告厅。
-* 台大Chih-Jen Lin教授做关于Large-scale linear classification: status and challenges的报告，时间2014年12月1日，地点：电子科技大学（清水河新校区），图书馆600人报告厅
+* December 16,2015： In order to strengthen the cooperation and communication between teachers and students in our school and the famous scholars at home and abroad, Human resources department Teacher Development Center held a symposium on the frontiers of artificial intelligence. The seminar invited scholars at home and abroad, who Engaged in computer science and Engineering, to gather our school to carry out academic reports and exchange of discussion.
+* December 15, 2015： Academic Salon was held successfully in Beno Cafe, The Academic Salon is sponsored by the Human resources department Teacher Development Center, is hosted by the Institute of computer. Jiayu Zhou, assistant professor of computer science and Engineering Department of Michigan State University, was invited to do a report entitled "multi task learning and application". Academic Salon was Hosted by Professor Zenglin Xu .
+* November 13, 2015：Two articles were received by the AAAI conference, the top academic conference in Artificial intelligence field, Respectively as: Shandian Zhe, Yuan Qi, Youngja Park, **Zenglin Xu**, Ian Molloy and Suresh Chari, DinTuker: Scaling up Gaussian process models on large multidimensional arrays；**Yingming Li**, Ming Yang, **Zenglin Xu**, Zhongfei (Mark) Zhang, Learning with Marginalized Corrupted Features and Labels Together.
+* February 1, 2015：An article was received by the academic journal T-PAMI,  top journal of the field of artificial intelligence：**Zenglin Xu**, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
+* January 25, 2015： The paper, Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease ,is awarded AAAI Outstanding student paper honorable mention。Congratulations for  Shandian Zhe, **Zenglin Xu**, Alan Qi, Peng Yu.
+* November 10, 2014: Two articles were received by the AAAI conference, the top academic conference in Artificial intelligence field, Respectively as:Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 和  Nyström Approximation for Sparse Kernel Methods: Theoretical Analysis and Empirical Evaluation
+* November 30 2015, Big data algorithm and Science Forum held in the library report hall.
+* December 16, 2015: Professer Chih-Jen Lin was invited to do a report entitled Large-scale linear classification: status and challenges in the library report hall.
 * The 2nd Workshop on Scalable Machine Learning: Theory and Applications, In conjunction with the 2014 IEEE International Conference on Big Data, Washington D.C., Oct, 2014.
 * The 1st Workshop on Scalable Machine Learning: Theory and Applications, In conjunction with IEEE Big Data Conference 2013, Santa Clara, CA, Oct, 2013.

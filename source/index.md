@@ -8,6 +8,8 @@ date:
 
 
 ### News!!
+* 2015年12月16日: 为加强我校师生与海内外知名学者的合作交流，人力资源部教师发展中心组织开展人工智能前沿问题研讨会。此次研讨会邀请了从事计算机科学与工程相关方向研究的海内外学者汇聚我校开展学术报告和交流讨论。
+* 2015年12月15日： 由人力资源部教师发展中心主办，计算机科学与工程学院承办的学术沙龙在清水河校区宾诺咖啡馆成功举行。密歇根州立大学计算机与工程系助理教授周家雨应邀做了题为《多任务学习及其应用》的报告。学术沙龙由国家“青年千人计划”入选者徐增林教授主持。
 * 2015年11月13日：两篇文章分别被人工智能领域顶级会议AAAI接收，分别为：Shandian Zhe, Yuan Qi, Youngja Park, **Zenglin Xu**, Ian Molloy and Suresh Chari, DinTuker: Scaling up Gaussian process models on large multidimensional arrays；**Yingming Li**, Ming Yang, **Zenglin Xu**, Zhongfei (Mark) Zhang, Learning with Marginalized Corrupted Features and Labels Together. 
 * 2015年2月1日：一篇文章被人工智能领域顶级期刊T-PAMI接收：**Zenglin Xu（徐增林）**, Feng Yan, and Yuan (Alan) Qi.Bayesian nonparametric models for multiway data analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37 (2): 475-487.
 * 2015年1月25日： Sparse Bayesian Multiview Learning for Simultaneous Association Discovery and Diagnosis of Alzheimer's Disease 被评为AAAI Outstanding student paper honorable mention。祝贺 Shandian Zhe, **Zenglin Xu**, Alan Qi, Peng Yu.

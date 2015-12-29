@@ -1,4 +1,4 @@
-title: 加入我们
+title: Join Us
 lang: en
 layout: layout_en
 ---

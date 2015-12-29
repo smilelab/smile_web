@@ -101,4 +101,4 @@ deploy:
   type: git
   repo:
     gitcafe: git@gitcafe.com:smilelab/smilelab.git,gitcafe-pages
-    github: https://github.com/smilelab/smilelab.github.io.git,master
+    github: git@github.com:smilelab/smilelab.github.io.git,master
