@@ -1,6 +1,6 @@
 title: 叶锦棉
 ---
-![叶锦棉](http://7xohr3.com1.z0.glb.clouddn.com/%E5%8F%B6%E9%94%A6%E6%A3%89.jpg)
+![叶锦棉](http://7xohr3.com1.z0.glb.clouddn.com/%E5%8F%B6%E9%94%A6%E6%A3%891.jpg)
 
 ### 研究方向
 机器学习应用，计算框架研究

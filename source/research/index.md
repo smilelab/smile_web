@@ -9,9 +9,11 @@ title: 研究方向
 * 机器学习在社会网络、神经信息学、健康、安全等领域的数据分析
 
 ## 研究项目
-* 2014-2018, Study of Big data analytics and scalable machine learning, 985 Special Funding Support from University of Electronic Science & Technology of China, Principle Investigator, RMB 2 Millon
-* 2011-2015, Scalable Bayesian learning for multi-source and multi-aspect data, National Science Foundation, Major Participant, USD 180K
-* 2009-2013, Relational learning and inference for network models, National Science Foundation, Major Participant, USD 310K
-* 2008-2010, Theoretical Investigation on Kernel-based Maximum a Postriori(MAP),  Classifiers Under Gaussianity Assumption, Hong Kong RGC, Major Participant, HKD 396K
-* 2007-2009, The Exploration of Low Density and Manifold Assumptions in Semi-supervised Learning, Hong Kong RGC, Major Participant, HKD 310K
-* 2006-2008, A Study of Kernel-based Discriminant Classifiers, CUHK Direct Grant, Major Participant, HKD 100K
+1. 电子科大985配套经费，先进机器学习平台关键技术研究，200万，2014-2018。 
+2. 国家青千千人启动经费，先进机器学习平台关键技术研究，200万，2015-2017。 
+3. 中国科学院网络数据科学与技术重点实验室开放基金，可扩展的贝叶斯学习算法及在大规模社会网络中的应用，主持，6万元，2015-2016。 
+4. 中央高校基础科研经费，10万元，基于矩阵分布的贝叶斯学习算法及在社会网络分析中的应用研究，2015-2016。 
+5. 国家自然科学基金科学部应急管理项目，基于矩阵分布的统计机器学习算法的专业运动员复杂社会网络构建及应用研究，2015/1-2015/12，20万元，主研。
+6. 国家自然科学基金项目，大规模张量分析中的非参贝叶斯学习技术研究，2016/1-2019/12,73万。
+7. 国家自然科学基金项目，多源多方面的可拓展贝叶斯学习，2011/1-2015/12,18万美元。
+8. 国家自然科学基金项目，多源多方面的可拓展贝叶斯学习，2011/1-2015/12,18万美元

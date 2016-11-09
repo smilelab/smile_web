@@ -100,5 +100,6 @@ sitemap:
 deploy:
   type: git
   repo:
-    gitcafe: git@gitcafe.com:smilelab/smilelab.git,gitcafe-pages
+    coding: https://git.coding.net/smilelab/smilelab.git,gitcafe-pages
+#    gitcafe: git@gitcafe.com:smilelab/smilelab.git,gitcafe-pages
     github: git@github.com:smilelab/smilelab.github.io.git,master

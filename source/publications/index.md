@@ -1,20 +1,20 @@
-### a) Books or Edited Special Issues 
+### a) 专著和编著
 1. **Zenglin Xu** and Irwin King. Introduction to Semi-supervised Learning. CRC Press, 2014 (expected).
 2. Yi Fang, **Zenglin Xu**, Jiang Bian, and Ziad Al Bawab. International Journal of Web Science, Special Issue on Social Web Search and Mining. Inderscience, 2013.
 3. **Zenglin Xu**, Irwin King, and Michael R. Lyu. More Than Semi-supervised Learning: A Unified View on Learning with Labeled and Unlabeled Data. LAP LAMBERT Academic Publishing, 2010.
 
-### b) Invited Book Chapters 
+### b) 书籍章节 
 1. **Zenglin Xu**, Mingzhen Mo, and Irwin King. Computational intelligence. In Alexandru Floares, editor, Semi-supervised Learning, pages 1-16. Nova Science Publishers, 2012.
 2. Kaizhu Huang, **Zenglin Xu**, Irwin King, Michael R. Lyu, and Zhangbin Zhou. A novel discriminative naive bayesian network for classification. In A. Mittal and A. Kassim, editors, Bayesian Network Technologies: Applications and Graphical Models, pages 1-12. IDEA Group Inc., New York, 2007.
 
-### c) Refereed Journal Articles 
+### c) 期刊文章
 1. **Zenglin Xu**, Feng Yan, and Yuan (Alan) Qi. Bayesian nonparametric models for multiway data analysis.  IEEE Transactions on Pattern Recognition and Machine Intelligence, 2014.
 2. Haiqin Yang, **Zenglin Xu**, Jieping Ye, Irwin King, and Michael R. Lyu. Efficient sparse generalized multiple kernel learning.  IEEE Transactions on Neural Networks, 22(3):433-446, 2011.
 3. **Zenglin Xu**, Irwin King, Michael R. Lyu, and Rong Jin. Discriminative semi-supervised feature selection via manifold regularization.  IEEE Transactions on Neural Networks, 21(7):1033-1047, 2010.
 4. **Zenglin Xu**, Kaizhu Huang, Jianke Zhu, Irwin King, and Michael R. Lyu. A novel  kernel-based maximum a posteriori classification method.  Neural  Networks,22(7):977-987, 2009.
 5. **Zenglin Xu**, Irwin King, and Michael R. Lyu.  Feature selection based on minimum error minimax probability machine.  International Journal of Pattern Recognition and Artificial Intelligence, 21(8):1-14, 2007.
 
-### d) Refereed International Conference Articles 
+### d) 国际会议文章
 1. Bin Shen, **Zenglin Xu** and Jan P. Allebach. Kernel Tapering: a Simple and Effective Approach to Sparse Kernels for Image Processing. International Conference on Image Processing, 2014.
 2. Shandian Zhe, **Zenglin Xu** and Yuan (Alan) Qi. Joint association discovery and diagnosis of Alzheimer's disease by supervised heterogeneous multiview learning. Pacific Symposium on Biocomputing, 2014.
 3. Shouyuan Chen, Irwin King, Michael R. Lyu, and **Zenglin Xu**. Recovering pairwise interaction tensor. Neural Information Processing Systems (NIPS), 2013.(AR: 360/1420= 25.3%, Spotlight: 52/1420 = 3.7%)

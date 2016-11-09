@@ -1,1 +1,10 @@
-title: 肖文栋layout: layout_en---![肖文栋](http://7xohr3.com1.z0.glb.clouddn.com/肖文栋.jpg)肖文栋，电子科技大学研究生（研一），计算机应用技术专业。研究方向: 模式识别与智能机器人。目前在做医学图像处理、机器学习等方面的研究。喜欢运动，喜爱美食。 email：<wd_xiao@qq.com>教育经历：本科就读于西华师范大学
+title: Wendong Xiao
+layout: layout_en
+---
+![Wendong Xiao](http://7xohr3.com1.z0.glb.clouddn.com/肖文栋.jpg)
+
+Wendong Xiao graduated from China West Normal University. 15 Master Student of University of Electronic Science and technology of China, major in computer application technology.
+Now, his research direction include pattern recognition and intelligent robot.Sports and traveling are my hobbies.
+
+email：<wd_xiao@qq.com>
+

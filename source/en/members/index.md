@@ -1,24 +1,25 @@
-title: 主要成员
+title: Members
 layout: layout_en
 ---
 
-## 教师
-教授：[徐增林](/members/xuzenglin)
+## Teachers
+Professor：[Zenglin Xu](/en/members/xuzenglin)
 
-副教授：[吴洪](/members/wuhong)
+Associate Professor：[Hong Wu](/en/members/wuhong)
 
-讲师：[任亚洲](/members/renyazhou)
+Lecturer：[Yazhou Ren](/en/members/renyazhou)
 
-## 访问学者
-[宋国琴](/members/songguoqin)
+## Vsiting Scholar
+[Guoqin Song](/en/members/songguoqin)
 
-## 行政人员
-[周欣](/members/zhouxin)
+## Administrative Personnel
+[Xin Zhou](/en/members/zhouxin)
 
-## 博士生
-[刘斌](/members/liubin)  [盛泳潘](/members/shengyongpan) [Emily](/members/emily)
+## Doctoral Students
+[Bin Liu](/en/members/liubin)      [Yongpan Sheng](/en/members/shengyongpan)        [Emily](/en/members/emily)
 
-## 研究生
-[白冉](/members/bairan) [贺丽荣](/members/helirong) [衡星](/members/hengxing) [蒋涛](/members/jiangtao) [李广西](/members/liguangxi) [刘畅](/members/liuchang) [龙亚超](/members/longyacao) [阙晓凡](/members/quexiaofan) [肖文栋](/members/xiaowendong) [叶锦棉](/members/yejinmian) [臧文华](/members/zangwenhua) [曾杰](/members/zengjie) [郑德炼](/members/zhengdelian)
+## Master Students
+[Ran Bai](/en/members/bairan) [Lirong He](/en/members/helirong) [Xing Heng](/en/members/hengxing) [Tao Jiang](/en/members/jiangtao) [Guangxi Li](/en/members/liguangxi) [Chang Liu](/en/members/liuchang) [Yachao Long](/en/members/longyacao)
+[Xiaofan Que](/en/members/quexiaofan) [Wendong Xiao](/en/members/xiaowendong) [Jinmian Ye](/en/members/yejinmian) [Wenhua Zang](/en/members/zangwenhua) [Jie Zeng](/en/members/zengjie) [Delian Zheng](/en/members/zhengdelian)
 
-![合影](http://7xohr3.com1.z0.glb.clouddn.com/合影.jpg)
+![](http://7xohr3.com1.z0.glb.clouddn.com/%E5%90%88%E5%BD%B1.jpg)

@@ -11,8 +11,7 @@ title: 主要成员
 ## 访问学者
 [宋国琴](/members/songguoqin)
 
-## 行政人员
-[周欣](/members/zhouxin)
+
 
 ## 博士生
 [刘斌](/members/liubin)  [盛泳潘](/members/shengyongpan) [Emily](/members/emily)
@@ -22,4 +21,4 @@ title: 主要成员
 
 [阙晓凡](/members/quexiaofan) [肖文栋](/members/xiaowendong) [叶锦棉](/members/yejinmian) [臧文华](/members/zangwenhua) [曾杰](/members/zengjie) [郑德炼](/members/zhengdelian)
 
-![合影](http://7xohr3.com1.z0.glb.clouddn.com/%E5%90%88%E5%BD%B1.jpg)
+![](http://7xohr3.com1.z0.glb.clouddn.com/%E5%90%88%E5%BD%B11.jpg)
